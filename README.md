@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @astroxero
 - 👀 I’m interested in programming and videogames
 - 🌱 I’m currently learning python and gdscript
-- 💞️ I’m looking to collaborate on my new multiplayer fps game exclusion
+- 💞 I’m looking to collaborate on my new multiplayer fps game exclusion
 - 📫 You can reach me with my emal roscoe.rr@icloud.com
 
 <!---
