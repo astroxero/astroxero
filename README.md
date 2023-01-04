@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @astroxero
-- 👀 I’m interested in programming and videogames
-- 🌱 I’m currently learning python and gdscript
-- 💞 I’m looking to collaborate on my new game death is hard
-- 📫 You can reach me with my emal roscoe.rr@icloud.com
+## [about me]
+🧒 I'm 13 years old and been coding since I was 7.
+
+🧑‍💻 I’m love in programming and videogames.
+
+🔐 I code mainly in C# but know a bit of Python and Swift.
+
+🎮 I work with Unity but want to use Godot.
+## //my interests
+🎲 I play Wordle everyday and am still bad at it.
+
+🥏 I love playing Ultimate frisbee
+
+🖌️ I like making digital art
+## if (gets older) {
+💾 When I get older I want to either be a web or game developer
+## }
+
 
 <!---
 astroxero/astroxero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
