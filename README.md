@@ -13,7 +13,7 @@
 
 🖌️ I like making digital art
 ## if (gets older) {
-💾 When I get older I want to either be a web or game developer
+💾 When I become an adult I want to either be a web or game developer
 ## }
 
 
