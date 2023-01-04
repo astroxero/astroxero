@@ -87,7 +87,7 @@
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="roscoe.rr@icloud.com" target="_blank">
 <img src="https://img.shields.io/badge/email:  roscoe.rr@icloud.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
