@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Beau Rubin-Rottenberg </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Coding+Since+I+was+7;++;Self-taught+gamedev,;13+years+old,;Avid+Unity+user,;Likes+collaborating,;Loves+to+learn+new+stuff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+gamedev,;++;Coding+Since+I+was+seven,;13+years+old,;Avid+Unity+user,;Likes+collaborating,;Loves+to+learn+new+stuff"></a>
 </p>
 
 
@@ -16,7 +16,7 @@
 
 <br>
 
-- A 13 year old gamedev who's coded since I was 7
+- A 13 year old gamedev who's coded since I was seven
 - Plays Ultimate Frisbee and Wordle in my spare time
 - Currently using Unity and looking to start in Godot
 - Hoping to be a webdev when I grow up
